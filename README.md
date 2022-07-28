@@ -1,4 +1,4 @@
-<p>A simple application to shorten the give url using redis and laravel cache</p>
+<p>A simple application to short the given url using redis and laravel cache</p>
 
 ## Why redis?
 - Faster redirection
