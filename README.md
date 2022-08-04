@@ -3,7 +3,8 @@
 ## Why redis?
 - Faster redirection
 - Simple key value pair solution
-- Stimulate a RAM server
+- Redis is a in-memory database, so it is faster than many of exisiting popular databasee.
+- its a no sql db, so structure of db will not mess in future enhancements.
 
 ## How it works?
 - 1 will create a shorten url 
